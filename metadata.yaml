@@ -1,0 +1,38 @@
+_repo: 100---the-Story-of-a-Patriot_5776
+_version: 0.0.1
+alternative_title:
+- One-hundred per cent
+- 100 per cent
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patriotism -- Fiction'
+- !lcsh 'Communists -- United States -- Fiction'
+- !lcsh 'Industrial Workers of the World -- Fiction'
+- !lcsh 'Agents provocateurs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Bombings -- Fiction'
+- !lcsh 'American fiction -- 20th century'
+- GITenberg
+title: '100%: the Story of a Patriot'
+url: http://www.gutenberg.org/ebooks/5776
